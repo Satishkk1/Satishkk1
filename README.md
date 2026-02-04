@@ -7,7 +7,11 @@ I’m highly curious by nature and continuously learning new skills to sharpen m
 This GitHub is a space where I share projects, experiments, and learning journeys as I grow as a data professional and refine my craft.
 
 My work focuses on:
+
 *End-to-end data analysis and problem solving
+
 *Creating intuitive dashboards and visual stories
+
 *Building efficient, reusable analytics workflows
+
 *Applying data thinking to real-world problems
